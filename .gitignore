@@ -1,0 +1,4 @@
+*.apk*
+*.class
+src/io/github/reisy243/wahStudio/R.java
+*.dex

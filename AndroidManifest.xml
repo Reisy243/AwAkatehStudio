@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="io.github.reisy243.awakatehStudio" android:versionCode="1" android:versionName="Alpha 1.0">
+	<uses-sdk android:minSdkVersion="29" android:targetSdkVersion="33" />
+	<application android:label="AwAkatehStudio" android:icon="@mipmap/awakate">
+		<activity android:name="Main" android:label="AwAkatehStudio" android:exported="true">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+	</application>
+</manifest>
