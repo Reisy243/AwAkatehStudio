@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="io.github.reisy243.awakatehStudio" android:versionCode="01" android:versionName="Alpha 0.1">
 	<uses-sdk android:minSdkVersion="29" android:targetSdkVersion="33" />
-	<application android:label="AwAkatehStudio" android:icon="@mipmap/awakate">
-		<activity android:name="Main" android:label="AwAkatehStudio" android:exported="true">
+	<application android:label="AwAkateh Studio" android:icon="@mipmap/awakate">
+		<activity android:name="Main" android:label="AwAkateh Studio" android:exported="true">
 			<intent-filter>
 				<action android:name="android.intent.action.MAIN" />
 				<category android:name="android.intent.category.LAUNCHER" />
